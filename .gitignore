@@ -4,3 +4,5 @@ obj/
 *.csproj
 Nethereum
 Nethereum.sln
+Temp/
+*.sln
